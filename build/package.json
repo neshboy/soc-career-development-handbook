@@ -1,0 +1,9 @@
+{
+  "name": "soc-career-development-handbook-build",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build tooling for The SOC Career Development Handbook (NESHBOY SOC Professional Library, Volume 4).",
+  "dependencies": {
+    "marked": "^18.0.13"
+  }
+}
