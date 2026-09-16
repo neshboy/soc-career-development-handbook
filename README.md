@@ -13,6 +13,7 @@ This is a handbook for the person doing the climbing, not the person designing t
 - **[SOC_Career_Development_Handbook.pdf](./SOC_Career_Development_Handbook.pdf)** — the assembled, print-ready book. Start here.
 - **[BOOK-INDEX.md](./BOOK-INDEX.md)** — the full part table with per-unit scope, the series map against the other three NESHBOY volumes, and the multi-level content model.
 - **[STYLE-GUIDE.md](./STYLE-GUIDE.md)** — the voice, formatting, and figure-evidence-classification contract every part follows: seven content tags (`[CONCEPT]`, `[L1/L2]`, `[SENIOR/SPECIALIST]`, `[LEAD/MANAGEMENT TRACK]`, `[STUDY PLAN]`, `[INTERVIEW PREP]`, `[MINDSET]`) and eight recurring callouts (Career Autopsy, Analyst's Note, Ground Truth, Blind Spot, Career Trap, Cross-Book Pointer, Field Test, What Would Change My Mind), adapted from the SOC Manager's Operating Handbook's style contract — itself adapted from the Detection Engineering Handbook V2's — for series-wide consistency.
+- **[REFERENCES.md](./REFERENCES.md)** — every external, non-NESHBOY source (certifying-body and standards-body pages) cited inline in the chapters, per `STYLE-GUIDE.md` §9's `OFFICIAL REFERENCE` evidence class, with the specific claim and chapter location each source supports.
 
 ## What's synthetic vs. real
 

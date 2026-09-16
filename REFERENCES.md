@@ -1,0 +1,21 @@
+# References
+
+External, real-world sources cited inline across the SOC Career Development Handbook's chapters, per `STYLE-GUIDE.md` §9's `OFFICIAL REFERENCE` evidence class. Unlike the series' cross-book citation convention (`STYLE-GUIDE.md` §4), which points to a specific part of a companion NESHBOY volume, the sources below are external to the series entirely — certifying-body and standards-body pages the book's certification claims (Part 6, Part 17) are checked against.
+
+Every entry was independently fetched and read before being cited; none are pattern-guessed or reconstructed from memory. Listed once, alphabetically by organization, with full metadata and every chapter location that cites it. If a certifying body updates a page's content after this citation pass (2026-09-16), the specific figures quoted inline may drift — re-verify before treating any renewal period, exam format, or prerequisite claim below as still current.
+
+## Sources
+
+- **CompTIA, "Continuing Education Overview," CompTIA, 2026.** https://www.comptia.org/continuing-education/learn/overview — States that CompTIA certifications (including Security+ and CySA+) expire three years from the date earned and must be renewed through the Continuing Education program. Cited in `chapters/part06-certifications-what-actually-matters-and-when.md` (Section 2, Security+ and CySA+ entries) to support the three-year renewal claim for both certifications.
+
+- **GIAC, "Certified Incident Handler (GCIH)," GIAC, 2026.** https://www.giac.org/certifications/certified-incident-handler-gcih/ — GIAC's own GCIH exam objectives name the "PICERL" incident-handling process (preparation, identification, containment, eradication, recovery, lessons learned) directly as a tested area. Cited in `chapters/part06-certifications-what-actually-matters-and-when.md` (Section 2, GCIH entry) to support the description of GCIH's underlying incident-handling framework.
+
+- **GIAC, "Certified Forensic Analyst (GCFA)," GIAC, 2026.** https://www.giac.org/certifications/certified-forensic-analyst-gcfa/ — Describes GCFA's coverage of memory forensics, timeline/file-system analysis, and Windows artifact identification. Cited in `chapters/part06-certifications-what-actually-matters-and-when.md` (Section 2, GCFA entry) to support the "artifact analysis, timeline reconstruction, evidence handling" content description.
+
+- **GIAC, "Network Forensic Analyst (GNFA)," GIAC, 2026.** https://www.giac.org/certifications/network-forensic-analyst-gnfa/ — Describes GNFA's coverage of network protocol analysis, NetFlow analysis, and reconstructing activity from captured network traffic. Cited in `chapters/part17-becoming-an-incident-responder.md` (Section 7) to support the description of what GNFA adds beyond GCFA.
+
+- **GIAC, "GIAC Certification Renewal," GIAC, 2026.** https://www.giac.org/certification-renewal/ — States that GIAC certifications (GCIH, GCFA, GNFA, and others) require renewal every four years via 36 continuing-professional-education (CPE) credits. Cited in `chapters/part06-certifications-what-actually-matters-and-when.md` (Section 2, GCIH and GCFA entries) to support the four-year renewal claim.
+
+- **ISC2, "CISSP Certification Exam Outline," ISC2, 2026.** https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline — States the CISSP exam covers eight domains and requires a minimum of five years of cumulative, full-time experience in two or more of those domains, with candidates who pass but lack the experience becoming an "Associate of ISC2" for up to six years while they close the gap. Cited in `chapters/part06-certifications-what-actually-matters-and-when.md` (Section 8, CISSP paragraph) to support the domain-breadth and experience-prerequisite claim.
+
+- **OffSec, "PEN-200: Penetration Testing with Kali Linux (OSCP)," OffSec, 2026.** https://www.offsec.com/courses/pen-200/ — Describes the OSCP exam as a proctored, 24-hour practical exam graded on compromising standalone machines and an Active Directory set, and states that the base OSCP credential (distinct from the newer "OSCP+" recertification track) carries no expiration date. Cited in `chapters/part06-certifications-what-actually-matters-and-when.md` (Section 2, OSCP entry) to support the exam-format and no-renewal claims.
