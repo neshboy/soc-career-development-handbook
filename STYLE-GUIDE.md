@@ -1,6 +1,6 @@
 # The SOC Career Development Handbook — STYLE-GUIDE.md
 
-**Status:** Adopted for Volume 4 of the NESHBOY SOC Professional Library, adapted from the SOC Manager's Operating Handbook `STYLE-GUIDE.md` (itself adapted from the Detection Engineering Handbook V2's) for series consistency.
+**Status:** Adopted for the NESHBOY SOC Professional Library, adapted from the SOC Manager's Operating Handbook `STYLE-GUIDE.md` (itself adapted from the Detection Engineering Handbook V2's) for series consistency.
 **Applies to:** every part, appendix, template, and figure in this book.
 **Audience:** every writer, technical reviewer, and editor working on this book.
 
