@@ -1,0 +1,12 @@
+A SOC Career Development Handbook. Built for the analyst. Free. Public.
+
+A certification is not a career plan. Neither is a title. The climb is everything you build in between.
+
+From self-assessment → study plan → home lab → portfolio → interview prep → the branch point → team lead → SOC manager → SOC architect.
+
+Inside: surviving L1 and earning a fast L2 nomination, closing the judgment gap, the senior-analyst portfolio that earns a branch, work-sample bars for detection engineer, threat hunter, incident responder, and staff/principal IC, certification sequencing checked directly against CompTIA, GIAC, ISC2, and OffSec's own current pages — not pattern-guessed, and burnout, plateau, and pacing self-diagnosis across a full career, not just a first year.
+
+Every stage is worked from the seat you're actually sitting in — L1, L2, L3, branch specialist, team lead, SOC manager, and SOC architect — cross-referenced against the competency matrix and promotion committee it's actually scored by, never re-deriving either.
+
+Full PDF: https://raw.githubusercontent.com/neshboy/soc-career-development-handbook/master/SOC_Career_Development_Handbook.pdf
+Repo: https://github.com/neshboy/soc-career-development-handbook
